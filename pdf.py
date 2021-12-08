@@ -56,7 +56,7 @@ def get_x():
             x = float(x)
             print(f"You have entered a X value: {x}")
             return x
-        except ValueError: print("Invaliud input. Enter a numeric X value")
+        except ValueError: print("Invalid input. Enter a numeric X value")
 
 def probability_density(mean, variance, x):
     '''Return the probability density function value of a normal distribution \n
