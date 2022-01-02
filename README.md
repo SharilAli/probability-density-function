@@ -2,6 +2,7 @@
 
 ## General info
 An application that calculates the probability density and cumulative distribution of a normal distribution
+Based on ANL252, SUSS end course assignment July 2021.
 
 Probability density formula:
 
